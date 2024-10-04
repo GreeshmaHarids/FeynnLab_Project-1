@@ -1,2 +1,2 @@
 # FeynnLab_Projects
-Project works 
+Project-1: AI/ML based Product/ Service Prototype Ideation
